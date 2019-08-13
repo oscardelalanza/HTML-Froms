@@ -5,16 +5,22 @@
 }
 
 body {
-    display: flex;
     font-size: 16px;
     font-family: Arial, sans-serif;
-    background: #ECEEF1;
+    background: #ECEEF1; 
+}
+
+main {
+    display: flex;
+    align-items: center;
     justify-content: center;
+    height: 100vh; 
 }
 
 .container {
     width: 400px;
     height: auto;
+    margin: auto;
 }
 
 .container form {
@@ -37,10 +43,6 @@ body {
     color: #474747;
     margin-bottom: 20px;
     font-weight: 300;
-}
-
-.container form label {
-
 }
 
 .container form input{
