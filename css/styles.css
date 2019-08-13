@@ -1,0 +1,93 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    font-size: 16px;
+    font-family: Arial, sans-serif;
+    background: #ECEEF1;
+    justify-content: center;
+}
+
+.container {
+    width: 400px;
+    height: auto;
+}
+
+.container form {
+    border-top: solid #b5b5b5 1px;
+    border-right: solid #b5b5b5 1px;
+    border-left: solid #b5b5b5 1px;
+    background: #ffffff;
+    padding: 30px;
+}
+
+.container form h2 {
+    text-align: center;
+    color: #474747;
+    padding-bottom: 10px;
+    font-weight: 600;
+}
+
+.container form h3 {
+    text-align: center;
+    color: #474747;
+    margin-bottom: 20px;
+    font-weight: 300;
+}
+
+.container form label {
+
+}
+
+.container form input{
+    width: 100%;
+    height: 35px;
+    border-radius: 3px;
+    border: solid #bebebe 1px;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.container form input[type=password] {
+    margin-bottom: 20px;
+}
+
+.container form input[type=submit] {
+    border: none;
+    width: 100%;
+    color: #ffffff;
+    background: #2e76c7;
+    padding: 15px;
+    font-size: 20px;
+    height: auto;
+}
+
+.container form input[type=submit]:hover {
+    opacity: .5;
+}
+
+.container form .bottom-text {
+    width: 100%;
+    text-align: center;
+    color: #b5b5b5;
+    font-style: italic;
+    padding: 0 40px 0 40px;
+}
+
+.container .form-footer {
+    background: #ECEEF1;
+    font-size: 14px;
+    color: #b5b5b5;
+    text-align: center;
+    vertical-align: center;
+    padding: 20px;
+    border-bottom: solid #b5b5b5 1px;
+    border-right: solid #b5b5b5 1px;
+    border-left: solid #b5b5b5 1px;
+}
