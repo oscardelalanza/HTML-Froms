@@ -7,6 +7,7 @@
 header {
     display: flex;
     flex-direction: row-reverse;
+    height: 5%;
 }
 
 header div {
@@ -46,6 +47,9 @@ header > div > a {
 }
 
 body {
+    display: flex;
+    justify-content: space-between;
+    flex-flow: column;
     font-size: 16px;
     font-family: Arial, sans-serif;
     background: #ECEEF1; 
@@ -55,7 +59,7 @@ main {
     display: flex;
     align-items: center;
     justify-content: center;
-    height: 90vh; 
+    height: 85%; 
 }
 
 main a {
@@ -156,10 +160,11 @@ main a {
 footer {
     text-align: center;
     font-size: 13px;
-    height: 10vh;
     margin: auto;
     line-height: 20px;
     color: #474747;
+    height: 10%;
+    padding-top: 25px;
 } 
 
 footer a {
