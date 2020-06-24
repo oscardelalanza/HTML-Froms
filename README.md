@@ -37,6 +37,7 @@ To get a local copy up and running follow these simple example steps.
 - Github: [@oscardelalanza](https://github.com/oscardelalanza)
 - Twitter: [@oscardelalanza](https://twitter.com/oscardelalanza)
 - Linkedin: [Oscar De La Lanza](https://linkedin.com/in/oscardelalanza)
+- Email: oscardelalanza@gmail.com
 
 ## 🤝 Contributing
 
