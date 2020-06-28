@@ -30,6 +30,17 @@ To clone the project in your local environment do the following.
 - Run the command `git clone git@github.com:oscardelalanza/HTML-Froms.git`.
 - Run the command `cd HTML-Froms` to enter the project directory.
 
+### Install
+
+- Not needed.
+
+### Usage
+
+- Click on `Sign up now!` button and fill the form to create your account
+- Check your email and open the `activation` link to start using your account
+- Use the links in the navigation bar to switch between the different sections of the site.
+![navbar](screenshots/navbar.png)
+
 ## Authors
 
 👤 **Bruna Genz**
