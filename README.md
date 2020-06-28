@@ -32,7 +32,7 @@ To clone the project in your local environment do the following.
 
 ### Install
 
-- Not needed.
+- This project doesn't require installation, node modules, or similar.
 
 ### Usage
 
@@ -45,7 +45,7 @@ To clone the project in your local environment do the following.
 
 ### Deployment 
 
-- To start the local server open the file `index.html`.
+- Open `index.html` file to go directly to the page, or use your preferred web server.
 
 ## Authors
 
