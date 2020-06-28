@@ -1,6 +1,6 @@
 # HTML Froms
 
-> This project consists of building an HTML document that matches the appearance of mint.com’s signup page as a practice of HTML forms
+> This project consists of building an HTML document that matches the appearance of mint.com’s signup page as a practice of HTML forms.
 
 ![screenshot](./screenshot.PNG)
 
@@ -14,15 +14,21 @@ You can find the original description in [The Odin Project](https://www.theodinp
 
 [Live Demo Link](https://rawcdn.githack.com/oscardelalanza/HTML-Froms/82f79af1b5886a969f66b29d1a7de4df3374bde4/index.html)
 
-
 ## Getting Started
 
-To get a local copy up and running follow these simple example steps.
-- open a new terminal and run the next command
-- `git clone git@github.com:oscardelalanza/HTML-Froms.git`
+> To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
-- web browser
+
+- `Git`
+
+### Setup
+
+To clone the project in your local environment do the following.
+
+- Open a new `terminal` window and navigate to the directory where the project will be stored.
+- Run the command `git clone git@github.com:oscardelalanza/HTML-Froms.git`.
+- Run the command `cd HTML-Froms` to enter the project directory.
 
 ## Authors
 
