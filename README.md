@@ -36,10 +36,8 @@ To clone the project in your local environment do the following.
 
 ### Usage
 
-- Click on `Sign up now!` button and fill the form to create your account
-- Check your email and open the `activation` link to start using your account
-- Use the links in the navigation bar to switch between the different sections of the site.
-![navbar](screenshots/navbar.png)
+*This project is an HTML form template. Is only demonstrative and does not contain functional features.*
+- Fill the `form` with the requested data to simulate a registration account in `Intuit`. 
 
 ## Authors
 
