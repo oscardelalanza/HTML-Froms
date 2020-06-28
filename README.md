@@ -37,7 +37,15 @@ To clone the project in your local environment do the following.
 ### Usage
 
 *This project is an HTML form template. Is only demonstrative and does not contain functional features.*
-- Fill the `form` with the requested data to simulate a registration account in `Intuit`. 
+- Fill the `form` with the requested data to simulate a registration account in `Intuit`.
+
+### Run tests
+
+- This project doesn't contain tests.
+
+### Deployment 
+
+- To start the local server open the file `index.html`.
 
 ## Authors
 
